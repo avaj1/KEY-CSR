@@ -18,4 +18,4 @@ User is provided with option to input subject values. User is required to follow
 
 No root privileges in order to run the script. No excutable permissions given, hence use bash inorder to run the script. Download the zip and extract it. Go to the extracted directoy and run the command
 
-$ bash create_key+csr.sh
+`$ bash create_key+csr.sh`
